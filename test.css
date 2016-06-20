@@ -1,24 +1,24 @@
-<!DOCTYPE html>
+body{background-color: lightgrey;}<!DOCTYPE html>
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Stylish</title>
-	<link rel="stylesheet" type="text/css"
-	href="css/test.css">
-	<style type="text/css">
-			h1{color:red;font-size:90px;
-				text-decoration:underline;} 
-
-				#first {font-size: 150px;}
-				.small{font-size: 12px;} </style>
+<title>Stylish</title>
+<link rel="stylesheet" type="text/css"
+href="css/test.css">
 <style type="text/css">
-			h2{color:green;font-size:70px;}
+	h1{color:red;font-size:90px;
+		text-decoration:underline;} 
+
+		#first {font-size: 150px;}
+		.small{font-size: 12px;} </style>
+<style type="text/css">
+	h2{color:green;font-size:70px;}
 </style><style type="text/css">
-		span{font-style: italic;}
-		h2 span{text-decoration:line-through;}
-			h3{color:orange;font-size:20px;}
-		}
-		}
+span{font-style: italic;}
+h2 span{text-decoration:line-through;}
+	h3{color:orange;font-size:20px;}
+}
+}
 </style></head>
 <body>
 <h1 id="first" class="small">heading1</h1>
